@@ -1,4 +1,5 @@
 /.grunt
+/.vagrant
 /local
 /node_modules
 /npm-debug.log
