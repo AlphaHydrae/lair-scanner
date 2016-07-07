@@ -1,6 +1,6 @@
 {
   "name": "lair-scanner",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "File scanner for the Lair media center.",
   "main": "./lib/index.js",
   "author": "Simon Oulevay <npm@alphahydrae.com>",
@@ -27,6 +27,7 @@
     "commander": "^2.9.0",
     "expand-tilde": "^1.2.0",
     "fs-extra": "^0.30.0",
+    "glob": "^7.0.5",
     "has-flag": "^2.0.0",
     "inflection": "^1.7.1",
     "js-yaml": "^3.3.1",
