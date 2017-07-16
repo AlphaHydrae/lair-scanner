@@ -21,7 +21,6 @@
     "node": "4.x"
   },
   "dependencies": {
-    "big-integer": "^1.6.15",
     "bluebird": "^3.0.5",
     "chalk": "^2.0.1",
     "commander": "^2.9.0",
