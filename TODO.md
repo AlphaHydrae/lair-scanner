@@ -1,2 +1,3 @@
-* add configurable ignores
-* handle located sources
+# TODO
+
+* normalize usage & descriptions
