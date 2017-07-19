@@ -7,6 +7,3 @@ server:
   # The authentication token the scanner will use to authenticate to Lair.
   # You can generate one in your Profile page.
   token: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJmb28iLCJleHBpcmF0aW9uIjoxNDM5MzY2NjM3fQ.Dbh78_gbPc7eqAUB22tywBbMV6IyFJId09S7ULYl80ZtKtGvyoNaco1mwCLM0ciB8hp6U1xFNkgTtOCy2G3k5g"
-
-# The directory in which the Lair scanner will store its database.
-workspace: ~/.lair
